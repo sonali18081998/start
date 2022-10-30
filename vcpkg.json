@@ -1,0 +1,22 @@
+{
+    "name": "helloworld",
+    "version": "0.0.1",
+    "dependencies": [
+        {
+            "name": "glfw3",
+            "platform": "(osx & x64) | (linux & arm64) | (windows & x86) | (windows & x64)"
+        },
+        {
+            "name": "opengl",
+            "platform": "(windows & x86) | (windows & x64)"
+        },
+        {
+            "name": "glew",
+            "platform": "(linux & arm64)"
+        }
+    ],
+    "builtin-baseline": "3639676313a3e8b6fe1e94b9e7917b71d32511e3", 
+    "overrides": [
+        { "name": "glfw3", "version": "3.3.1" }
+    ]
+}
