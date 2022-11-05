@@ -1,1 +1,0 @@
-This folder will contain Windows (32-bit) build.
